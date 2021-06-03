@@ -1,6 +1,6 @@
 {
-  "name": "KANT LS-wabot",
-  "version": "4.0.0",
+  "name": "termux-wabot",
+  "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
   "directories": {
