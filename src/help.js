@@ -2,12 +2,12 @@ const help = (prefix) => {
 	return `
 
 ╔════════════════════
-║        🌹 KANT 𝐁𝐎𝐓 🌹
+║  '_'𝑲𝑨𝑵𝑻 𝑳𝑺 :\
 ╠════════════════════
 
 
 ➸ Prefix:  *「${prefix} 」*
-➸ Status: *「 Online 」*
+➸ Status: *「 ONLINE」*
 
        • ──── ✾ ──── •
        *FIGURINHAS*【✔】

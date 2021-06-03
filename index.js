@@ -80,7 +80,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `Tchau @${num.split('@')[0]} ja foi tarde 😂👋`
+				teks = `FUCK @${num.split('@')[0]} vai pelas sombrA`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
@@ -126,10 +126,10 @@ async function starts() {
 				},
 				only: {
 					group: '❌ Este comando só pode ser usado em grupos! ❌',
-					ownerG: '⚠️ Este comando só pode ser usado pelo dono do bot! 😂',
+					ownerG: '⚠️ Este comando só pode ser usado pelo KANT LS 😂',
 					ownerB: '❌ Este comando só pode ser usado pelo proprietário do bot! ❌',
 					admin: '⚠️ Este comando só pode ser usado pelo o adm! 😝',
-					Badmin: '❌ Este comando só pode ser usado quando eu virar adm porra! ❌'
+					Badmin: '❌ Este comando só pode ser usado quando eu virar adm !❌'
 				}
 			}
 
@@ -333,7 +333,7 @@ async function starts() {
 				case 'dono':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/d1M6lOz.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CRIADOR:* KAMT\n*YOUTUBE:* https://bit.ly/3iIlHmc\n*WPP:* wa.me/+556993899391\n*INSTA:* to sem aff kk\n\n\n*Digite *.bot* para ver comandos basicos para criar um bot'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CRIADOR:* KAMT\n*YOUTUBE:* https://bit.ly/3iIlHmc\n*WPP:* wa.me/+55719825076971\n*INSTA:* to sem aff kk\n\n\n*Digite *.bot* para ver comandos basicos para criar um bot'})
 					break
 				case 'belle2':
 					memein = await kagApi.memeindo()
@@ -408,7 +408,7 @@ async function starts() {
 				case 'canal':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://imgur.com/gallery/xuTCBPO`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '️*canal do zeus:*\n\n https://bit.ly/3iIlHmc'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'KANT  D:*\n\n https://bit.ly/3iIlHmc'})
 					break
 				case 'mia1':
 					memein = await kagApi.memeindo()
@@ -496,7 +496,7 @@ async function starts() {
 						if (args.length < 1) return client.sendMessage(from, 'Onde está o nome de usuário, hum?', text, {quoted: mek})
 						let { user, stats } = await tiktod.getUserProfileInfo(args[0])
 						reply(mess.wait)
-						teks = `*ID* : ${user.id}\n*Username* : ${user.uniqueId}\n*Nickname* : ${user.nickname}\n*Followers* : ${stats.followerCount}\n*Followings* : ${stats.followingCount}\n*Posts* : ${stats.videoCount}\n*Luv* : ${stats.heart}\n`
+						teks = `*ID* : ${user.id}\n*Username* : ${user.uniqueId}\n*KANT LSe* : ${user.nickname}\n*Followers* : ${stats.followerCount}\n*Followings* : ${stats.followingCount}\n*Posts* : ${stats.videoCount}\n*Luv* : ${stats.heart}\n`
 						buffer = await getBuffer(user.avatarLarger)
 						client.sendMessage(from, buffer, image, {quoted: mek, caption: teks})
 					} catch (e) {
@@ -595,7 +595,7 @@ async function starts() {
 						reply('Transmissão enviada com sucesso')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `[  TRANSMISSÃO de avizo ]\n\n${body.slice(4)}`)
+							sendMess(_.jid, `[  AVIZO DO KANT LS ]\n\n${body.slice(4)}`)
 						}
 						reply('Transmissão enviada com sucesso')
 					}

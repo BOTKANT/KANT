@@ -12,13 +12,13 @@
 DESEJA RE-CARREGAR O SCRIPT? AMO MEU NOME / LINK CHANEL .... NÃO ALTERE A INFORMAÇÃO !!!
 
 ## NOTA:>
-NÃO VENDE / COMPRE O SCRIPT, ESTE SCRIPT É 100% GRATUITO PARA OS USUÁRIOS DO TERMUX
+/ COMPRE O SCRIPT, ESTE SCRIPT É 100% PAGA PARA OS USUÁRIOS DO TERMUX
 </div>
 
 ### FERRAMENTAS E MATERIAIS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Prepare as ferramentas e materiais.
 `` `bash
-> 2 telefones celulares (1 para executar SC, 1 para ler o código QR sis)
+> ódigo QR sis)
 > rede de internet rápida, cota +
 > armazenamento adequado
 > aplicativo whatsapp
@@ -27,15 +27,8 @@ Prepare as ferramentas e materiais.
 ```
 INSTALAÇÃO:
 
-> Se você não tiver o APK Termux, baixe-o na Playstore
-> entre no apk termux e digite abaixo!
-> termux-setup-storage
-> pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
-> apt update && apt upgrade
-> git clone https://github.com/vinizeus/zeus.git
-> cd zeus
-> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
-> Basta escanear o código qr e ... pronto
+> 
+> DA UMA MAMADA PRO KANT BANDIDA
 ```
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
@@ -79,5 +72,5 @@ INSTALAÇÃO:
 
   KANT LS DOMINA PORRA🐦❤️
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
 

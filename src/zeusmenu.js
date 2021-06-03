@@ -1,4 +1,4 @@
-const zeusmenu = (prefix) => {
+const KANTMENU = (prefix) => {
 	return `
 
             COMANDOS:
